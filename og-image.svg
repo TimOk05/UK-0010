@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#18221f" stroke-opacity=".12"/></pattern>
+    <linearGradient id="wash" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#f8f6f1"/><stop offset="1" stop-color="#e9dfcf"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#wash)"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <g transform="translate(732 87) rotate(-9 192 197)">
+    <rect width="385" height="394" fill="#bcc9af" stroke="#18221f" stroke-width="2"/>
+    <rect x="101" y="44" width="238" height="292" fill="none" stroke="#18221f" stroke-opacity=".38" stroke-width="2"/>
+    <rect x="238" y="61" width="81" height="92" fill="#d29b71" stroke="#18221f" stroke-opacity=".5" stroke-width="2"/>
+    <path d="M278 61v92M238 107h81" stroke="#18221f" stroke-opacity=".35" stroke-width="2"/>
+    <path d="M36-10v430h58V-10" fill="#d9ccb9" stroke="#18221f" stroke-opacity=".46" stroke-width="2"/>
+    <path d="M110 54c45-15 59 34 38 76-33-6-55-28-38-76ZM273 274c74-22 83 37 55 71-51 2-67-20-55-71ZM106 268c64-18 79 25 50 63-45 5-63-15-50-63Z" fill="#6c8267" stroke="#18221f" stroke-opacity=".42" stroke-width="2"/>
+    <path d="M151 370h157M356 78v221" stroke="#18221f" stroke-width="2"/>
+    <rect x="213" y="360" width="42" height="19" fill="#e9dfcf"/><text x="221" y="374" font-family="monospace" font-size="11" fill="#18221f">8.4 m</text>
+  </g>
+  <g fill="#18221f">
+    <text x="80" y="98" font-family="monospace" font-size="17" letter-spacing="3">GREATER MANCHESTER PROJECT BRIEFS</text>
+    <text x="80" y="216" font-family="Georgia,serif" font-size="74">Premier</text>
+    <text x="80" y="292" font-family="Georgia,serif" font-size="74" font-style="italic" fill="#c96d48">Landscaping</text>
+    <text x="80" y="363" font-family="Arial,sans-serif" font-size="26" fill="#263531">A clearer beginning for outdoor plans.</text>
+    <path d="M80 455h425" stroke="#18221f" stroke-opacity=".34"/>
+    <text x="80" y="498" font-family="monospace" font-size="17">DRIVEWAYS  /  PATIOS  /  PAVING</text>
+    <text x="80" y="528" font-family="monospace" font-size="17">GARDEN TRANSFORMATIONS</text>
+  </g>
+  <rect x="80" y="566" width="312" height="1" fill="#18221f"/>
+  <text x="80" y="599" font-family="monospace" font-size="13" fill="#18221f" fill-opacity=".68">UNOFFICIAL PROJECT-BRIEF CONCEPT</text>
+</svg>
